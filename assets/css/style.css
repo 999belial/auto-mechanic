@@ -19,7 +19,7 @@ header {
   height: 100px;
 }
 nav {
-  background-image: url(/assets/img/headavto.jpg);
+  background-image: url(../img/headavto.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 800px;
@@ -181,7 +181,7 @@ li {
   display: flex;
 }
 .podval {
-  background-image: url(/assets/img/back_g.jpg);
+  background-image: url(../img/back_g.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 800px;
